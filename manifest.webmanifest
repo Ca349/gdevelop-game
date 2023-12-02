@@ -1,0 +1,33 @@
+{
+  "name": "Blob",
+  "short_name": "Blob",
+  "id": "com.example.gamename",
+  "description": "",
+  "orientation": "any",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": [{
+        "src": "7a9d3a1832f00b031c10cb3b8106ab093fe9292a581bfbd7612684eb9daed1be-logo.png",
+        "sizes": "36x36"
+      },{
+        "src": "7a9d3a1832f00b031c10cb3b8106ab093fe9292a581bfbd7612684eb9daed1be-logo.png",
+        "sizes": "48x48"
+      },{
+        "src": "7a9d3a1832f00b031c10cb3b8106ab093fe9292a581bfbd7612684eb9daed1be-logo.png",
+        "sizes": "72x72"
+      },{
+        "src": "7a9d3a1832f00b031c10cb3b8106ab093fe9292a581bfbd7612684eb9daed1be-logo.png",
+        "sizes": "96x96"
+      },{
+        "src": "7a9d3a1832f00b031c10cb3b8106ab093fe9292a581bfbd7612684eb9daed1be-logo.png",
+        "sizes": "144x144"
+      },{
+        "src": "7a9d3a1832f00b031c10cb3b8106ab093fe9292a581bfbd7612684eb9daed1be-logo.png",
+        "sizes": "192x192"
+      },{
+        "src": "7a9d3a1832f00b031c10cb3b8106ab093fe9292a581bfbd7612684eb9daed1be-logo.png",
+        "sizes": "512x512"
+      }]
+}
